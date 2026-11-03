@@ -1,0 +1,1 @@
+{"name":"web","scripts":{"build":"vite build"},"dependencies":{"vite":"5.4.2","react":"18.3.1"}}
